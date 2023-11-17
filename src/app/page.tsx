@@ -46,20 +46,9 @@ export default function Home() {
         </div>
         <h3 id="join">So...</h3>
         <p>If that&apos;s enough to encourage your participation as a <span
-          style={{fontWeight: 'bold'}}>Hackavoter</span>,
-          message <a href='https://t.me/TheMonkeyCoder' target="_blank">@TheMonkeyCoder</a> on
-          Telegram. Just
-          sending
-          your
-          name (so I&apos;ll know you) and your project&apos;s probable name (if you already decided) is enough for now,
-          but later
-          I also need your
-          wallet address that you&apos;re going to use to receive the official hackathon&apos;s POAP on. I&apos;m adding
-          Hackavoters to
-          a
-          group where we all can chat with each other about our projects and get notifications about Hackavote. However,
-          do
-          let me know if you prefer not to join this group.</p>
+          style={{fontWeight: 'bold'}}>Hackavoter</span>, <a href='https://t.me/hackavote' target="_blank">Join this
+          Telegram Group.</a> Don&apos;t worry about
+          being spammed, hackers are busy building :)</p>
 
         <h3>But if you&apos;re still undecided, let&apos;s dive a little deeper</h3>
         <p>Before I start, If you have any feedback or suggestion for Hackavote feel free to message me on Telegram, and
@@ -129,7 +118,8 @@ export default function Home() {
           will end on midnight.
         </p>
 
-        <p>So, if you want to join or further discuss the platform, <a href="#join">head back to the top.</a></p>
+        <p>So, if you want to join or further discuss the platform, <a href='https://t.me/hackavote' target="_blank">Join
+          this Telegram Group.</a></p>
       </div>
       <div className="section">
         <h4 style={{textAlign: 'center'}}>Happy Hacking :)</h4>
