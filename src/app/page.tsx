@@ -130,8 +130,8 @@ export default function Home() {
           </p>
         </section>
 
-        <p>So, if you want to join or further discuss the platform, DM @TheMonkeyCoder on <a href='https://t.me/TheMonkeyCoder'
-                                                                                             target="_blank">Telegram</a></p>
+        <p>So, if you want to join or further discuss the platform,<a href='https://t.me/hackavote'
+                                                                                             target="_blank">Join this Telegram Group</a></p>
       </main>
       <div className="section">
         <h4 style={{textAlign: 'center'}}>Happy Hacking :)</h4>
