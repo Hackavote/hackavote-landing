@@ -18,7 +18,7 @@ export default function Home() {
               way, hackers can get
               more extensive feedback from the community.
             </p>
-            <p>
+            <p id="community">
               - Hackers list their projects and vote on the projects of others, creating a curated list. Each project
               can
               then feature its wallet address on the platform to garner support and donations from the community.
@@ -28,17 +28,18 @@ export default function Home() {
               So,
               there
               is
-              no fear of losing your money. :)</p><p>
-            - Your time and vote are so valuable, which is why we reward you for finding and ranking projects. Once
-            the
-            voting concludes, I pledge to gift <span style={{fontWeight: "bold"}}>100 USDC</span> as <span
-            style={{fontWeight: "bold"}}>Curator Reward</span> to
-            the <span
-            style={{fontWeight: "bold"}}>top 3</span> people who were most influential on the ranking, which means
-            they voted earlier and more on the
-            projects that ended up ranking higher in the system as the Curator Reward. (exact formula is yet to be
-            determined)
-          </p>
+              no fear of losing your money. :)</p>
+            <p id="pledge">
+              - Your time and vote are so valuable, which is why we reward you for finding and ranking projects. Once
+              the
+              voting concludes, I pledge to gift <span style={{fontWeight: "bold"}}>100 USDC</span> as <span
+              style={{fontWeight: "bold"}}>Curator Reward</span> to
+              the <span
+              style={{fontWeight: "bold"}}>top 3</span> people who were most influential on the ranking, which means
+              they voted earlier and more on the
+              projects that ended up ranking higher in the system as the Curator Reward. (exact formula is yet to be
+              determined)
+            </p>
             <p>
               - If I win any official awards offered by the hackathon, <span
               style={{fontWeight: "bold"}}>I pledge to donate 25% of it to some projects
