@@ -5,7 +5,8 @@ export default function Home() {
     <div className="App">
       <div className="header">
         <h1>Hackavote!</h1>
-        <h5>round 0</h5>
+        <h5 style={{paddingBottom: '20px'}}>round 0</h5>
+        <a href="https://app.hackavote.xyz/" target="_blank" className="see-projects">See Projects</a>
       </div>
 
       <main className="section">
